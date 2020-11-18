@@ -1,0 +1,47 @@
+img{
+	margin: auto;
+	position:absolute;
+	width: 1000px;
+	height: 600px;
+}
+nav {
+	width: 100%;
+	text-align: center;
+}
+button
+{
+	cursor: pointer;
+	position: relative;
+	border: none;
+}
+
+button img
+{
+	width: auto;
+	height: auto;
+}
+#jogar
+{
+	display: inline-block;
+	right: 35%;
+	top:600px;
+}
+#creditos
+{
+	display: inline-block;
+	left: 20%;
+	top:590px;
+}
+#sair
+{
+	display: inline-block;
+	left: 23%;
+	top:650px;
+}
+
+#ajuda
+{
+	display: inline-block;
+	right: 40%;
+	top:650px;
+}

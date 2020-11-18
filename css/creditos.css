@@ -1,0 +1,23 @@
+img{
+	margin: auto;
+	position:absolute;
+	width: 1000px;
+	height: 750px;
+}
+button
+{
+	cursor: pointer;
+	position: relative;
+	border: none;
+	padding: 0px;
+	margin-left:40%;
+	top:680px;	
+	background-position:center bottom;
+}
+
+button img
+{
+	width: 180px;
+	height: 40px;
+	
+}
